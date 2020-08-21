@@ -7,7 +7,7 @@ lnmp环境增加opencc4php实现PHP简繁体转换，opencc4php 是 OpenCC 的PH
 <b>安装：</b>
 <br>
 <pre>
-wget https://raw.githubusercontent.com/zunsking/lnmp-opencc4php/master/lnmp-opencc4php.sh
+wget https://raw.githubusercontent.com/zinsking/lnmp-opencc4php/master/lnmp-opencc4php.sh
 bash lnmp-opencc4php.sh
 </pre>
 <br>
